@@ -1,6 +1,6 @@
 ![Header](https://i.ibb.co/HnJ60sz/Untitled-design.png)
 <h3 align="center">A passionate front-end developer from Bangladesh</h3>
-<p align="left">I love the entire process of developing creative website. i love 
+<p align="left">I love the entire process of developing creative website.i love 
  the challenge of learning new technology and spending time to meet new people.Learning how people hide things and where people are likely to look.</p>
 <img align="right" alt ="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
